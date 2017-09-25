@@ -2,6 +2,7 @@ package com.practice.composite.example;
 
 public class Test {
 public static void main(String[] args) {
+	//yes
 	//contract employess
 	TCS_Employer tcs_Employer=new ContractEmployee(111,"abc","HR");
 	TCS_Employer tcs_Employer2=new ContractEmployee(222,"ghy","FINANCE");
